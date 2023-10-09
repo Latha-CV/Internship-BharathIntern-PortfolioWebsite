@@ -1,0 +1,46 @@
+.layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items:center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+.letter-spacing2{
+    letter-spacing: 2px;
+}
+
+.btn2 {
+    width: 140px;
+}
+
+.flex2 {
+    flex: 2;
+}
+
+.flex3 {
+    flex: 3;
+}
+
+
+.my-T-10{
+    margin-top: 10px;
+}
+.my-T-20{
+    margin-top: 20px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
